@@ -1,0 +1,4 @@
+<full-backup-content>
+    <exclude domain="sharedpref" path="session.xml" />
+    <exclude domain="database" path="last_verse.db" />
+</full-backup-content>
